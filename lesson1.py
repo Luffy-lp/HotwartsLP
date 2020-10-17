@@ -1,1 +1,2 @@
-print("sssss")
+a=[1,2]
+print(a[0])
